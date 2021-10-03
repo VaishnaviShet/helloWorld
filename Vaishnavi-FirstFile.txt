@@ -1,3 +1,7 @@
 This is the first file
-
+#I'm Vaishnavi Shet 
+#Persuing BE in CSE from the Canara College of Engineering, Mangaluru.
+# I like coding.
+# Idly is my favourite food.
+Thank you!
 !!
